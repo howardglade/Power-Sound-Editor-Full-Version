@@ -237,3 +237,6 @@ This repository serves as the official landing page for Power Sound Editor. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Power Sound Editor today!**
+
+---
+**Last updated:** 2026-09-10 14:02:55 UTC
